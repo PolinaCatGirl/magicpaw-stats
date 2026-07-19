@@ -66,17 +66,78 @@ function buildRanking(players) {
 async function getStats(page, period) {
   console.log(`Получаем статистику: ${period}`);
 
-  const apiPart =
-    `/api/hltv/family/1983?server=ru7&period=${period}`;
-
-  const responsePromise = page.waitForResponse(
-    response =>
-      response.url().includes(apiPart) &&
-      response.status() === 200,
+  // Сначала открываем обычную страницу Fletcher
+  await page.goto(
+    FAMILY_PAGE,
     {
-      timeout: 30000
+      waitUntil: "domcontentloaded",
+      timeout: 60000
     }
   );
+
+  // Даём странице немного загрузиться
+  await page.waitForTimeout(3000);
+
+  // Запрашиваем API прямо из браузера
+  const result = await page.evaluate(
+    async ({ period }) => {
+      const url =
+        `/api/hltv/family/1983?server=ru7&period=${period}`;
+
+      const response = await fetch(url, {
+        method: "GET",
+        headers: {
+          "Accept": "application/json"
+        }
+      });
+
+      const text =
+        await response.text();
+
+      return {
+        status: response.status,
+        contentType:
+          response.headers.get("content-type"),
+        text
+      };
+    },
+    { period }
+  );
+
+  console.log(
+    `${period} status: ${result.status}`
+  );
+
+  console.log(
+    `${period} content-type: ${result.contentType}`
+  );
+
+  if (
+    result.text.trim().startsWith("<!DOCTYPE") ||
+    result.text.trim().startsWith("<html")
+  ) {
+    throw new Error(
+      `Fletcher вернул HTML для периода ${period}`
+    );
+  }
+
+  const data =
+    JSON.parse(result.text);
+
+  if (!Array.isArray(data.roster)) {
+    console.log(
+      `В ${period} нет массива roster`
+    );
+
+    return [];
+  }
+
+  console.log(
+    `${period}: найдено игроков ${data.roster.length}`
+  );
+
+  return data.roster;
+}
 
   // Открываем страницу сразу с нужным периодом
   await page.goto(
@@ -216,35 +277,17 @@ async function main() {
     const page =
       await context.newPage();
 
-    const week =
-      await getStats(
-        page,
-        "week"
-      );
-
     const month =
-      await getStats(
-        page,
-        "month"
-      );
+  await getStats(
+    page,
+    "month"
+  );
 
-    await sendStats(
-      "🐾 MagicPaw • Урон за неделю",
-      "📅 Статистика за текущую неделю",
-      week
-    );
-
-    await new Promise(
-      resolve =>
-        setTimeout(resolve, 1500)
-    );
-
-    await sendStats(
-      "🐾 MagicPaw • Урон за месяц",
-      "🗓️ Статистика за текущий месяц",
-      month
-    );
-
+await sendStats(
+  "🐾 MagicPaw • Урон за месяц",
+  "🗓️ Статистика за текущий месяц",
+  month
+);
     console.log("Готово.");
 
   } finally {
