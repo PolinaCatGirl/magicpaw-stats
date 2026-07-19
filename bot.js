@@ -47,6 +47,7 @@ function buildRanking(players) {
 
   return {
     text,
+
     count: sorted.length,
 
     damage: sorted.reduce(
@@ -66,7 +67,6 @@ function buildRanking(players) {
 async function getStats(page, period) {
   console.log(`Получаем статистику: ${period}`);
 
-  // Сначала открываем обычную страницу Fletcher
   await page.goto(
     FAMILY_PAGE,
     {
@@ -75,10 +75,8 @@ async function getStats(page, period) {
     }
   );
 
-  // Даём странице немного загрузиться
   await page.waitForTimeout(3000);
 
-  // Запрашиваем API прямо из браузера
   const result = await page.evaluate(
     async ({ period }) => {
       const url =
@@ -87,7 +85,7 @@ async function getStats(page, period) {
       const response = await fetch(url, {
         method: "GET",
         headers: {
-          "Accept": "application/json"
+          Accept: "application/json"
         }
       });
 
@@ -127,43 +125,6 @@ async function getStats(page, period) {
   if (!Array.isArray(data.roster)) {
     console.log(
       `В ${period} нет массива roster`
-    );
-
-    return [];
-  }
-
-  console.log(
-    `${period}: найдено игроков ${data.roster.length}`
-  );
-
-  return data.roster;
-}
-
-  // Открываем страницу сразу с нужным периодом
-  await page.goto(
-    `${FAMILY_PAGE}&period=${period}`,
-    {
-      waitUntil: "domcontentloaded",
-      timeout: 60000
-    }
-  );
-
-  const response =
-    await responsePromise;
-
-  const contentType =
-    response.headers()["content-type"] || "";
-
-  console.log(
-    `${period} content-type: ${contentType}`
-  );
-
-  const data =
-    await response.json();
-
-  if (!Array.isArray(data.roster)) {
-    console.log(
-      `В ответе ${period} нет массива roster`
     );
 
     return [];
@@ -277,17 +238,19 @@ async function main() {
     const page =
       await context.newPage();
 
+    // Пока берём только месяц
     const month =
-  await getStats(
-    page,
-    "month"
-  );
+      await getStats(
+        page,
+        "month"
+      );
 
-await sendStats(
-  "🐾 MagicPaw • Урон за месяц",
-  "🗓️ Статистика за текущий месяц",
-  month
-);
+    await sendStats(
+      "🐾 MagicPaw • Урон за месяц",
+      "🗓️ Статистика за текущий месяц",
+      month
+    );
+
     console.log("Готово.");
 
   } finally {
