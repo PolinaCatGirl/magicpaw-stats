@@ -2,6 +2,11 @@ name: MagicPaw Capt Stats
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -22,7 +27,13 @@ jobs:
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
 
-      - name: Run stats bot
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      - name: Get Fletcher stats
         run: node bot.js
+
+      - name: Save stats.json
+        run: |
+          git config user.name "MagicPaw Stats Bot"
+          git config user.email "actions@github.com"
+          git add stats.json
+          git diff --cached --quiet || git commit -m "Update MagicPaw stats"
+          git push
