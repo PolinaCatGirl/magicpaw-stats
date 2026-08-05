@@ -1,125 +1,77 @@
 {
-  "updatedAt": "2026-08-05T15:34:58.578Z",
+  "updatedAt": "2026-08-05T17:08:29.736Z",
   "week": [
     {
       "id": 298800,
       "name": "Pika Paw",
-      "avgDamage": 140,
+      "avgDamage": 112,
       "totalDamage": 558,
       "totalKills": 3,
-      "captsPlayed": 4
+      "captsPlayed": 5
     },
     {
       "id": 341876,
       "name": "Fizen Paw",
-      "avgDamage": 483,
+      "avgDamage": 242,
       "totalDamage": 483,
-      "totalKills": 1,
-      "captsPlayed": 1
-    },
-    {
-      "id": 71160,
-      "name": "Mark Paw",
-      "avgDamage": 141,
-      "totalDamage": 565,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 173623,
-      "name": "Villy Vlazhnyy",
-      "avgDamage": 98,
-      "totalDamage": 390,
-      "totalKills": 1,
-      "captsPlayed": 4
-    },
-    {
-      "id": 244825,
-      "name": "Tema Paw",
-      "avgDamage": 88,
-      "totalDamage": 352,
-      "totalKills": 1,
-      "captsPlayed": 4
-    },
-    {
-      "id": 315244,
-      "name": "Yan Paw",
-      "avgDamage": 145,
-      "totalDamage": 289,
       "totalKills": 1,
       "captsPlayed": 2
     },
     {
+      "id": 71160,
+      "name": "Mark Paw",
+      "avgDamage": 113,
+      "totalDamage": 565,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 173623,
+      "name": "Villy Vlazhnyy",
+      "avgDamage": 78,
+      "totalDamage": 390,
+      "totalKills": 1,
+      "captsPlayed": 5
+    },
+    {
+      "id": 244825,
+      "name": "Tema Paw",
+      "avgDamage": 70,
+      "totalDamage": 352,
+      "totalKills": 1,
+      "captsPlayed": 5
+    },
+    {
+      "id": 315244,
+      "name": "Yan Paw",
+      "avgDamage": 96,
+      "totalDamage": 289,
+      "totalKills": 1,
+      "captsPlayed": 3
+    },
+    {
       "id": 283360,
       "name": "Polina Paw",
-      "avgDamage": 92,
-      "totalDamage": 369,
+      "avgDamage": 79,
+      "totalDamage": 395,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 5
     },
     {
       "id": 282831,
       "name": "Brain Paw",
-      "avgDamage": 157,
-      "totalDamage": 157,
+      "avgDamage": 136,
+      "totalDamage": 272,
       "totalKills": 0,
+      "captsPlayed": 2
+    },
+    {
+      "id": 345733,
+      "name": "George Paw",
+      "avgDamage": 39,
+      "totalDamage": 39,
+      "totalKills": 1,
       "captsPlayed": 1
-    },
-    {
-      "id": 134212,
-      "name": "Adriana Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 160235,
-      "name": "Morfey Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 3
-    },
-    {
-      "id": 233239,
-      "name": "Denys Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 1
-    },
-    {
-      "id": 345880,
-      "name": "Jarome Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 1
-    },
-    {
-      "id": 270053,
-      "name": "Lena Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 289781,
-      "name": "Andre Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 291696,
-      "name": "Elena Gilbert",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
     },
     {
       "id": 80156,
@@ -127,7 +79,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 5
     },
     {
       "id": 114918,
@@ -135,11 +87,27 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 5
+    },
+    {
+      "id": 134212,
+      "name": "Adriana Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
     },
     {
       "id": 149404,
       "name": "Nezer Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 160235,
+      "name": "Morfey Paw",
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
@@ -151,7 +119,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 5
     },
     {
       "id": 181824,
@@ -159,7 +127,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 5
     },
     {
       "id": 186537,
@@ -167,7 +135,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 5
     },
     {
       "id": 189346,
@@ -175,7 +143,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 3
+      "captsPlayed": 4
     },
     {
       "id": 205109,
@@ -183,7 +151,143 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 230967,
+      "name": "Takeo Tyta",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 233239,
+      "name": "Denys Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 2
+    },
+    {
+      "id": 257108,
+      "name": "Mikhail Winchester",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 257892,
+      "name": "Jane Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 260060,
+      "name": "Speex Xante",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 2
+    },
+    {
+      "id": 268319,
+      "name": "Misha Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 270053,
+      "name": "Lena Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 272748,
+      "name": "Zhuzhik Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 275822,
+      "name": "Dmitriy Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 285754,
+      "name": "Lenora Skaletto",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 289781,
+      "name": "Andre Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 291696,
+      "name": "Elena Gilbert",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 293094,
+      "name": "Alexander Armour",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 2
+    },
+    {
+      "id": 297527,
+      "name": "Viki Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 298087,
+      "name": "Kostya Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 300121,
+      "name": "Denis Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
       "captsPlayed": 4
+    },
+    {
+      "id": 345880,
+      "name": "Jarome Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 1
     },
     {
       "id": 214721,
@@ -192,102 +296,6 @@
       "totalDamage": 0,
       "totalKills": 0,
       "captsPlayed": 4
-    },
-    {
-      "id": 230967,
-      "name": "Takeo Tyta",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 257108,
-      "name": "Mikhail Winchester",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 257892,
-      "name": "Jane Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 260060,
-      "name": "Speex Xante",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 1
-    },
-    {
-      "id": 268319,
-      "name": "Misha Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 272748,
-      "name": "Zhuzhik Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 275822,
-      "name": "Dmitriy Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 285754,
-      "name": "Lenora Skaletto",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 293094,
-      "name": "Alexander Armour",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 1
-    },
-    {
-      "id": 297527,
-      "name": "Viki Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 298087,
-      "name": "Kostya Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 300121,
-      "name": "Denis Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 3
     },
     {
       "id": 301559,
@@ -350,58 +358,58 @@
     {
       "id": 298800,
       "name": "Pika Paw",
-      "avgDamage": 140,
+      "avgDamage": 112,
       "totalDamage": 558,
       "totalKills": 3,
-      "captsPlayed": 4
+      "captsPlayed": 5
     },
     {
       "id": 341876,
       "name": "Fizen Paw",
-      "avgDamage": 483,
+      "avgDamage": 242,
       "totalDamage": 483,
-      "totalKills": 1,
-      "captsPlayed": 1
-    },
-    {
-      "id": 244825,
-      "name": "Tema Paw",
-      "avgDamage": 116,
-      "totalDamage": 580,
-      "totalKills": 1,
-      "captsPlayed": 5
-    },
-    {
-      "id": 71160,
-      "name": "Mark Paw",
-      "avgDamage": 141,
-      "totalDamage": 565,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 173623,
-      "name": "Villy Vlazhnyy",
-      "avgDamage": 86,
-      "totalDamage": 432,
-      "totalKills": 1,
-      "captsPlayed": 5
-    },
-    {
-      "id": 315244,
-      "name": "Yan Paw",
-      "avgDamage": 145,
-      "totalDamage": 289,
       "totalKills": 1,
       "captsPlayed": 2
     },
     {
-      "id": 283360,
-      "name": "Polina Paw",
-      "avgDamage": 88,
-      "totalDamage": 439,
+      "id": 244825,
+      "name": "Tema Paw",
+      "avgDamage": 97,
+      "totalDamage": 580,
+      "totalKills": 1,
+      "captsPlayed": 6
+    },
+    {
+      "id": 71160,
+      "name": "Mark Paw",
+      "avgDamage": 113,
+      "totalDamage": 565,
       "totalKills": 0,
       "captsPlayed": 5
+    },
+    {
+      "id": 173623,
+      "name": "Villy Vlazhnyy",
+      "avgDamage": 72,
+      "totalDamage": 432,
+      "totalKills": 1,
+      "captsPlayed": 6
+    },
+    {
+      "id": 315244,
+      "name": "Yan Paw",
+      "avgDamage": 96,
+      "totalDamage": 289,
+      "totalKills": 1,
+      "captsPlayed": 3
+    },
+    {
+      "id": 283360,
+      "name": "Polina Paw",
+      "avgDamage": 78,
+      "totalDamage": 465,
+      "totalKills": 0,
+      "captsPlayed": 6
     },
     {
       "id": 199148,
@@ -414,10 +422,34 @@
     {
       "id": 282831,
       "name": "Brain Paw",
-      "avgDamage": 157,
-      "totalDamage": 157,
+      "avgDamage": 136,
+      "totalDamage": 272,
       "totalKills": 0,
+      "captsPlayed": 2
+    },
+    {
+      "id": 345733,
+      "name": "George Paw",
+      "avgDamage": 39,
+      "totalDamage": 39,
+      "totalKills": 1,
       "captsPlayed": 1
+    },
+    {
+      "id": 80156,
+      "name": "Lion Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 114918,
+      "name": "Sasha Willis",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
     },
     {
       "id": 134212,
@@ -425,7 +457,15 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 5
+    },
+    {
+      "id": 149404,
+      "name": "Nezer Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
     },
     {
       "id": 160235,
@@ -433,7 +473,55 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 3
+      "captsPlayed": 4
+    },
+    {
+      "id": 175658,
+      "name": "SunHuyan Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 181824,
+      "name": "Arnto Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 186537,
+      "name": "Greez Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 189346,
+      "name": "Genadiy Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 4
+    },
+    {
+      "id": 205109,
+      "name": "Alfred Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 230967,
+      "name": "Takeo Tyta",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
     },
     {
       "id": 233239,
@@ -441,7 +529,119 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 1
+      "captsPlayed": 2
+    },
+    {
+      "id": 257108,
+      "name": "Mikhail Winchester",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 257892,
+      "name": "Jane Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 260060,
+      "name": "Speex Xante",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 2
+    },
+    {
+      "id": 268319,
+      "name": "Misha Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 270053,
+      "name": "Lena Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 272748,
+      "name": "Zhuzhik Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
+    },
+    {
+      "id": 275822,
+      "name": "Dmitriy Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 285754,
+      "name": "Lenora Skaletto",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 289781,
+      "name": "Andre Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 291696,
+      "name": "Elena Gilbert",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 293094,
+      "name": "Alexander Armour",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 2
+    },
+    {
+      "id": 297527,
+      "name": "Viki Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 298087,
+      "name": "Kostya Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 6
+    },
+    {
+      "id": 300121,
+      "name": "Denis Paw",
+      "avgDamage": 0,
+      "totalDamage": 0,
+      "totalKills": 0,
+      "captsPlayed": 5
     },
     {
       "id": 345880,
@@ -452,196 +652,12 @@
       "captsPlayed": 1
     },
     {
-      "id": 270053,
-      "name": "Lena Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 289781,
-      "name": "Andre Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 291696,
-      "name": "Elena Gilbert",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 80156,
-      "name": "Lion Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 114918,
-      "name": "Sasha Willis",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 149404,
-      "name": "Nezer Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 175658,
-      "name": "SunHuyan Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 181824,
-      "name": "Arnto Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 186537,
-      "name": "Greez Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 189346,
-      "name": "Genadiy Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 3
-    },
-    {
-      "id": 205109,
-      "name": "Alfred Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
       "id": 214721,
       "name": "Artyom Paw",
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
       "captsPlayed": 5
-    },
-    {
-      "id": 230967,
-      "name": "Takeo Tyta",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 257108,
-      "name": "Mikhail Winchester",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 257892,
-      "name": "Jane Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 260060,
-      "name": "Speex Xante",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 1
-    },
-    {
-      "id": 268319,
-      "name": "Misha Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 272748,
-      "name": "Zhuzhik Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
-    },
-    {
-      "id": 275822,
-      "name": "Dmitriy Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 285754,
-      "name": "Lenora Skaletto",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 293094,
-      "name": "Alexander Armour",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 1
-    },
-    {
-      "id": 297527,
-      "name": "Viki Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 298087,
-      "name": "Kostya Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 5
-    },
-    {
-      "id": 300121,
-      "name": "Denis Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 4
     },
     {
       "id": 301559,
