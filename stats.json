@@ -1,69 +1,77 @@
 {
-  "updatedAt": "2026-08-19T12:38:43.913Z",
+  "updatedAt": "2026-08-19T13:29:27.602Z",
   "week": [
     {
       "id": 173623,
       "name": "Villy Vlazhnyy",
-      "avgDamage": 255,
-      "totalDamage": 1782,
-      "totalKills": 5,
-      "captsPlayed": 7
-    },
-    {
-      "id": 151204,
-      "name": "Necomini Rampage",
-      "avgDamage": 166,
-      "totalDamage": 1159,
-      "totalKills": 4,
-      "captsPlayed": 7
+      "avgDamage": 233,
+      "totalDamage": 1396,
+      "totalKills": 3,
+      "captsPlayed": 6
     },
     {
       "id": 278159,
       "name": "Looks Maxxing",
-      "avgDamage": 167,
-      "totalDamage": 1167,
+      "avgDamage": 176,
+      "totalDamage": 1057,
       "totalKills": 4,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
-      "id": 118152,
-      "name": "Takeo Paw",
-      "avgDamage": 127,
-      "totalDamage": 886,
-      "totalKills": 2,
-      "captsPlayed": 7
+      "id": 151204,
+      "name": "Necomini Rampage",
+      "avgDamage": 151,
+      "totalDamage": 904,
+      "totalKills": 4,
+      "captsPlayed": 6
     },
     {
       "id": 71160,
       "name": "Mark Paw",
-      "avgDamage": 98,
+      "avgDamage": 114,
       "totalDamage": 683,
       "totalKills": 2,
-      "captsPlayed": 7
+      "captsPlayed": 6
+    },
+    {
+      "id": 118152,
+      "name": "Takeo Paw",
+      "avgDamage": 121,
+      "totalDamage": 723,
+      "totalKills": 0,
+      "captsPlayed": 6
     },
     {
       "id": 283360,
       "name": "Polina Paw",
-      "avgDamage": 76,
-      "totalDamage": 531,
-      "totalKills": 3,
-      "captsPlayed": 7
+      "avgDamage": 67,
+      "totalDamage": 401,
+      "totalKills": 2,
+      "captsPlayed": 6
     },
     {
       "id": 302247,
       "name": "Arthur Paw",
-      "avgDamage": 71,
-      "totalDamage": 496,
+      "avgDamage": 62,
+      "totalDamage": 369,
       "totalKills": 2,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 161653,
       "name": "Jax Paw",
-      "avgDamage": 55,
+      "avgDamage": 64,
       "totalDamage": 386,
       "totalKills": 1,
-      "captsPlayed": 7
+      "captsPlayed": 6
+    },
+    {
+      "id": 282831,
+      "name": "Brain Paw",
+      "avgDamage": 39,
+      "totalDamage": 116,
+      "totalKills": 0,
+      "captsPlayed": 3
     },
     {
       "id": 220785,
@@ -72,14 +80,6 @@
       "totalDamage": 110,
       "totalKills": 0,
       "captsPlayed": 3
-    },
-    {
-      "id": 282831,
-      "name": "Brain Paw",
-      "avgDamage": 29,
-      "totalDamage": 116,
-      "totalKills": 0,
-      "captsPlayed": 4
     },
     {
       "id": 345880,
@@ -95,7 +95,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 257108,
@@ -103,7 +103,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 167413,
@@ -119,7 +119,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 291696,
@@ -127,7 +127,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 80156,
@@ -135,7 +135,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 114918,
@@ -143,7 +143,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 149404,
@@ -151,7 +151,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 175658,
@@ -159,7 +159,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 186537,
@@ -167,7 +167,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 189346,
@@ -175,7 +175,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 205109,
@@ -183,7 +183,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 214721,
@@ -191,7 +191,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 260060,
@@ -199,7 +199,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 268319,
@@ -207,7 +207,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 285754,
@@ -215,7 +215,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 289781,
@@ -223,7 +223,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 293094,
@@ -231,7 +231,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 294656,
@@ -239,7 +239,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 297527,
@@ -247,7 +247,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 307624,
@@ -255,7 +255,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 309566,
@@ -263,7 +263,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 311328,
@@ -271,7 +271,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 7
+      "captsPlayed": 6
     },
     {
       "id": 312628,
@@ -279,7 +279,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 5
+      "captsPlayed": 4
     },
     {
       "id": 315244,
@@ -423,7 +423,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 3
     },
     {
       "id": 230967,
@@ -431,7 +431,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 3
     },
     {
       "id": 303686,
@@ -439,7 +439,7 @@
       "avgDamage": 0,
       "totalDamage": 0,
       "totalKills": 0,
-      "captsPlayed": 4
+      "captsPlayed": 3
     }
   ],
   "month": [
