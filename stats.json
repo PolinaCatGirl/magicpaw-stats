@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-31T13:39:12.688Z",
-  "week": [],
+  "updatedAt": "2026-08-31T19:38:51.961Z",
+  "week": [
+    {
+      "id": 244825,
+      "name": "Montana Anq",
+      "avgDamage": 195,
+      "totalDamage": 195,
+      "totalKills": 0,
+      "captsPlayed": 1
+    },
+    {
+      "id": 289781,
+      "name": "Andre Paw",
+      "avgDamage": 179,
+      "totalDamage": 179,
+      "totalKills": 0,
+      "captsPlayed": 1
+    },
+    {
+      "id": 309566,
+      "name": "Ilyukha Paw",
+      "avgDamage": 74,
+      "totalDamage": 74,
+      "totalKills": 0,
+      "captsPlayed": 1
+    },
+    {
+      "id": 283360,
+      "name": "Ego Helper",
+      "avgDamage": 11,
+      "totalDamage": 11,
+      "totalKills": 0,
+      "captsPlayed": 1
+    }
+  ],
   "month": [
     {
       "id": 173623,
@@ -28,11 +61,11 @@
     },
     {
       "id": 244825,
-      "name": "Tema Paw",
-      "avgDamage": 124,
-      "totalDamage": 1730,
+      "name": "Montana Anq",
+      "avgDamage": 128,
+      "totalDamage": 1925,
       "totalKills": 4,
-      "captsPlayed": 14
+      "captsPlayed": 15
     },
     {
       "id": 160235,
@@ -60,11 +93,11 @@
     },
     {
       "id": 283360,
-      "name": "Polina Paw",
-      "avgDamage": 66,
-      "totalDamage": 1180,
+      "name": "Ego Helper",
+      "avgDamage": 63,
+      "totalDamage": 1191,
       "totalKills": 3,
-      "captsPlayed": 18
+      "captsPlayed": 19
     },
     {
       "id": 341876,
@@ -137,6 +170,22 @@
       "totalDamage": 125,
       "totalKills": 0,
       "captsPlayed": 7
+    },
+    {
+      "id": 289781,
+      "name": "Andre Paw",
+      "avgDamage": 9,
+      "totalDamage": 179,
+      "totalKills": 0,
+      "captsPlayed": 20
+    },
+    {
+      "id": 309566,
+      "name": "Ilyukha Paw",
+      "avgDamage": 9,
+      "totalDamage": 74,
+      "totalKills": 0,
+      "captsPlayed": 8
     },
     {
       "id": 345961,
@@ -283,14 +332,6 @@
       "captsPlayed": 17
     },
     {
-      "id": 289781,
-      "name": "Andre Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 19
-    },
-    {
       "id": 293094,
       "name": "Alexander Armour",
       "avgDamage": 0,
@@ -321,14 +362,6 @@
       "totalDamage": 0,
       "totalKills": 0,
       "captsPlayed": 11
-    },
-    {
-      "id": 309566,
-      "name": "Ilyukha Paw",
-      "avgDamage": 0,
-      "totalDamage": 0,
-      "totalKills": 0,
-      "captsPlayed": 7
     },
     {
       "id": 311328,
