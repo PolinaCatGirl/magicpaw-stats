@@ -1,38 +1,5 @@
 {
-  "updatedAt": "2026-09-30T13:58:36.535Z",
+  "updatedAt": "2026-09-30T18:47:01.238Z",
   "week": [],
-  "month": [
-    {
-      "id": 244825,
-      "name": "Montana Anq",
-      "avgDamage": 195,
-      "totalDamage": 195,
-      "totalKills": 0,
-      "captsPlayed": 1
-    },
-    {
-      "id": 289781,
-      "name": "Andre Paw",
-      "avgDamage": 179,
-      "totalDamage": 179,
-      "totalKills": 0,
-      "captsPlayed": 1
-    },
-    {
-      "id": 309566,
-      "name": "Ilyukha Paw",
-      "avgDamage": 74,
-      "totalDamage": 74,
-      "totalKills": 0,
-      "captsPlayed": 1
-    },
-    {
-      "id": 283360,
-      "name": "Ego Helper",
-      "avgDamage": 11,
-      "totalDamage": 11,
-      "totalKills": 0,
-      "captsPlayed": 1
-    }
-  ]
+  "month": []
 }
